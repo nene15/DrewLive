@@ -4,25 +4,19 @@ import re
 from datetime import datetime
 
 playlist_urls = [
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DaddyLive.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DrewAll.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/JapanTV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/PlexTV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/PlutoTV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/SamsungTVPlus.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/TubiTV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DrewLiveVOD.m3u8",
+    "https://raw.githubusercontent.com/nene15/DrewLive/refs/heads/main/DaddyLive.m3u8",
+    "https://raw.githubusercontent.com/nene15/DrewLive/refs/heads/main/DrewAll.m3u8",
+    "https://raw.githubusercontent.com/nene15/DrewLive/refs/heads/main/PlutoTV.m3u8",
+    "https://raw.githubusercontent.com/nene15/DrewLive/refs/heads/main/TubiTV.m3u8",
     # UDPTV_URL is handled separately for timestamp extraction, but also included
     # here so its channels are parsed and added to the merged playlist.
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/Drew247TV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/TVPass.m3u",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/Radio.m3u8",
-    "http://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DaddyLiveEvents.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/PPVLand.m3u8",
+    "https://raw.githubusercontent.com/nene15/DrewLive/refs/heads/main/UDPTV.m3u",
+    "https://raw.githubusercontent.com/nene15/DrewLive/refs/heads/main/TVPass.m3u",
+    "http://raw.githubusercontent.com/nene15/DrewLive/refs/heads/main/DaddyLiveEvents.m3u8",
+    "https://raw.githubusercontent.com/nene15/DrewLive/refs/heads/main/PPVLand.m3u8",
 ]
 
-UDPTV_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u"
+UDPTV_URL = "https://raw.githubusercontent.com/nene15/DrewLive/refs/heads/main/UDPTV.m3u"
 EPG_URL = "https://tinyurl.com/merged2423-epg"
 OUTPUT_FILE = "MergedPlaylist.m3u8"
 
