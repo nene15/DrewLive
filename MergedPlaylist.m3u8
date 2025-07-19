@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/DrewLive002-epg"
-# Last forced update: 2025-07-19T04:07:12.776151Z
+# Last forced update: 2025-07-19T06:15:34.251833Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -10708,49 +10708,69 @@ https://rr.buytommy.top/secure/ykRNkhFfNS/alpha/stream/sky-sports-f1-sky-f1/1/pl
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 https://rr.buytommy.top/secure/VaykxacMDR/alpha/stream/nfl-network/1/playlist.m3u8
 
+#EXTGRP:StreamedSU - American Football
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",Los Angeles Chargers vs. Detroit Lions (English - HD)
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1M2YxZTYwYWMzOWYxLTgxMzktOTUwNC1hNzZiLTFiYmE2NDY0/master.m3u8?md5=eN7t-2iq6sEPCcY2uxhERw&expires=1752945324&t=1752902124
+
 #EXTGRP:StreamedSU - Baseball
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEABNg5gyGvkWIQWMnl6vC-bOdhdxj+sg7tBDAECCE9qwgEPwwwHi6dGAs8kGSQrRx5GCJwazBQA.webp" group-title="StreamedSU - Baseball",Atlanta Braves vs New York Yankees (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZGI2OWU3ZWU3MDAwLTFiMjktM2M1NC02YjBlLWIxN2UwYWQy/master.m3u8?md5=yRZhRN5Jx8BSTqOiBjDr6A&expires=1752928188&t=1752884988
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp" group-title="StreamedSU - Baseball",Chicago Cubs vs Boston Red Sox (English - HD)
+https://rr.buytommy.top/secure/UCWvDemEAo/charlie/stream/boston-red-sox-vs-chicago-cubs-1629451481/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp" group-title="StreamedSU - Baseball",Cleveland Guardians vs Athletics (English - HD)
+https://rr.buytommy.top/secure/ivysJSeIxA/charlie/stream/athletics-vs-cleveland-guardians-1629451479/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA.webp" group-title="StreamedSU - Baseball",Colorado Rockies vs Minnesota Twins (English - HD)
+https://rr.buytommy.top/secure/OinrTmhRwU/charlie/stream/minnesota-twins-vs-colorado-rockies-1629451485/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5KwJCAAmIRN20HEIYyBQg+J+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Los Angeles Dodgers vs Milwaukee Brewers (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZGI2OWU3ZWU3MDAwLTFiMjktM2M1NC02YjBlLWIxN2UwYWQy/master.m3u8?md5=11SIndaX6dPyj0QRAgtkuw&expires=1752928655&t=1752885455
+https://rr.buytommy.top/secure/mBMsFsfylp/charlie/stream/milwaukee-brewers-vs-los-angeles-dodgers-1629451488/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5KwJCAAmIRN20HEIYyBQg+J+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Los Angeles Dodgers vs Milwaukee Brewers (English - HD)
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZGI2OWU3ZWU3MDAwLTFiMjktM2M1NC02YjBlLWIxN2UwYWQy/master.m3u8?md5=5RGzEtBi5_8DS0a6ZgpX-g&expires=1752945496&t=1752902296
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA.webp" group-title="StreamedSU - Baseball",Miami Marlins vs Kansas City Royals (English - HD)
+https://rr.buytommy.top/secure/CLolTFlKEd/charlie/stream/kansas-city-royals-vs-miami-marlins-1629451466/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA.webp" group-title="StreamedSU - Baseball",New York Mets vs Cincinnati Reds (English - HD)
-https://rr.buytommy.top/secure/cmHYcHeehI/charlie/stream/cincinnati-reds-vs-new-york-mets-1629451465/1/playlist.m3u8
+https://rr.buytommy.top/secure/IWtGOooPfl/charlie/stream/cincinnati-reds-vs-new-york-mets-1629451465/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Philadelphia Phillies vs Los Angeles Angels (English - HD)
+https://rr.buytommy.top/secure/IcyMHYmIws/charlie/stream/los-angeles-angels-vs-philadelphia-phillies-1629451474/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA.webp" group-title="StreamedSU - Baseball",Pittsburgh Pirates vs Chicago White Sox (English - HD)
+https://rr.buytommy.top/secure/wWyZceGvDP/charlie/stream/chicago-white-sox-vs-pittsburgh-pirates-1629451475/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA.webp" group-title="StreamedSU - Baseball",Seattle Mariners vs Houston Astros (English - HD)
+https://rr.buytommy.top/secure/VuEOcnPDWS/charlie/stream/houston-astros-vs-seattle-mariners-1629451490/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA.webp" group-title="StreamedSU - Baseball",Seattle Mariners vs Houston Astros (English - HD)
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0IWOwQ2M3EDOxQGNtEGMlhTL0MjY00iZihTOtQjY2MmMjJjM/master.m3u8
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuleiBZngAEzM4QhEBBDWYdh0968r789kT2X5i7k5OYcnozmlvwwwHi6dGAs8hCcrFixYmCJwClCEEA.webp" group-title="StreamedSU - Baseball",Toronto Blue Jays vs San Francisco Giants (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0IWOwQ2M3EDOxQGNtEGMlhTL0MjY00iZihTOtQjY2MmMjJjM/master.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Tampa Bay Rays vs Baltimore Orioles (English - HD)
+https://rr.buytommy.top/secure/LAFKMThscJ/charlie/stream/baltimore-orioles-vs-tampa-bay-rays-1629451477/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Baseball",Texas Rangers vs Detroit Tigers (English - HD)
+https://rr.buytommy.top/secure/vtqXTjBKeU/charlie/stream/detroit-tigers-vs-texas-rangers-1629451478/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Baseball",Washington Nationals vs San Diego Padres (English - HD)
+https://rr.buytommy.top/secure/lpuAzHbekU/charlie/stream/san-diego-padres-vs-washington-nationals-1629451476/1/playlist.m3u8
 
 #EXTGRP:StreamedSU - Basketball
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Washington Mystics vs Los Angeles Sparks (English - HD)
-https://rr.buytommy.top/secure/fzgnKPKhQz/charlie/stream/tbd-vs-tbd-1629451559/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Minnesota Timberwolves vs Houston Rockets (English - HD)
+https://rr.buytommy.top/secure/fTJlgXZYex/charlie/stream/tbd-vs-tbd-1629451463/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",New York Liberty vs Indiana Fever (English - HD)
+https://rr.buytommy.top/secure/cjsvCGuzoW/charlie/stream/tbd-vs-tbd-1629451559/1/playlist.m3u8
 
 #EXTGRP:StreamedSU - Fight (UFC, Boxing)
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Xander Zayas vs Jorge Garcia Perez (English - HD)
-https://rr.buytommy.top/secure/rkdpapCRZp/charlie/stream/ufc-318-holloway-vs-poirier-3-1629451491/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Oleksandr Usyk vs Daniel Dubois (English - HD)
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZGZjMjUxZWZkZTUxLWUzOGEtMTcyNC05N2E1LTg0NmQzNmMz/master.m3u8?md5=4eZX3DO-91ZVY79HOwUtkg&expires=1752947870&t=1752904670
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",UFC 318 Holloway vs Poirier 3 (English - HD)
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0kTNxczY3IGNhNDZtcDZmJWLiJjY00CN3gzMtQjNwQ2M4YmM/master.m3u8
 
 #EXTGRP:StreamedSU - Football
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1FIQMEChDcwIbSAAm63Po2INfdQQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",Atlanta United vs Charlotte FC (English - HD)
+https://rr.buytommy.top/secure/ydJEPQeLCL/charlie/stream/atlanta-united-fc-vs-charlotte-1326551/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyhIEIEM1ghuIACa4QKEDBAkjGsyAgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Columbus Crew vs DC United (English - HD)
+https://rr.buytommy.top/secure/oFAHQgZNLz/charlie/stream/columbus-crew-vs-dc-united-1326552/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBIwvKDm4htJHSD4gAJsZAxcIPYwpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",Manchester United vs Leeds United (English - HD)
-https://rr.buytommy.top/secure/cbtHbLIOpQ/charlie/stream/manchester-united-vs-leeds-united-1629451027/1/playlist.m3u8
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwY2MxM2N0cjMlNzYtQGN3gTL0IWZ00SN1ETMtgjZ0ImM2QGN/master.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAm-CnOAqQ3ECRAoQiCCBPaTIAwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",Mazatlán vs Puebla (English - HD)
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L4MmNjJWM0M2N2cTMtYzNxIWLhhTO00SOlRWZtYzNzAzMwQjY/master.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Necaxa vs Querétaro (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L4MmNjJWM0M2N2cTMtYzNxIWLhhTO00SOlRWZtYzNzAzMwQjY/master.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulx0wKEKPhgQIbiD4gYIACYG9F44hMEKTPii5gy2+vNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Seattle Sounders FC vs San Jose Earthquakes (English - HD)
-https://rr.buytommy.top/secure/EKpJokrrFZ/charlie/stream/atlanta-united-fc-vs-charlotte-1326551/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcwosD1zAwqkABMQiFCAggTibqaMEKTPii7ry9eaMdNaYdWNEQgA.webp" group-title="StreamedSU - Football",New England Revolution vs Orlando City (English - HD)
+https://rr.buytommy.top/secure/VdLOnREFfr/charlie/stream/new-england-revolution-vs-orlando-city-sc-1326554/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQgYwJkjWgQ3EABNcIPiFMQQJXWt0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Stirling Albion vs Heart of Midlothian (English - HD)
+https://rr.buytommy.top/secure/daVHLOSNtg/charlie/stream/stirling-albion-vs-heart-of-midlothian-1377280/1/playlist.m3u8
 
 #EXTGRP:StreamedSU - Motor Sports
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Ferrari Challenge: Coppa Shell 1 (English - SD)
-https://rr.buytommy.top/secure/oQaTZHhJOL/alpha/stream/ferrari-challenge-coppa-shell-1/3/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",NASCAR Cup Series 2025 - Dover (English - HD)
-https://rr.buytommy.top/secure/bJBbuxVQLp/charlie/stream/barcelona-trofeo-pirelli-race-2-1629451529/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",NASCAR Xfinity Series 2025 - Indianapolis (English - HD)
-https://rr.buytommy.top/secure/kpIeFouxFV/charlie/stream/muckleshoot-casino-resort-northwest-nationals-1629451557/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",PPV EVENT 18 - Tyler Wolf Memorial Silver Dollar ( - HD)
-https://rr.buytommy.top/secure/OYyggwsazn/echo/stream/ppv-event-04-hovhannisyan-v-thomas-ppv-004/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Superbike 2025 - Balaton Park (English - HD)
-https://rr.buytommy.top/secure/kpIeFouxFV/charlie/stream/muckleshoot-casino-resort-northwest-nationals-1629451557/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",World Rally Championship 2025 - Rally Estonia (English - HD)
-https://rr.buytommy.top/secure/vfhqyLXLvB/delta/stream/live-event_motogp-2025-czechia-gp-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Indycar 2025 - GP of Toronto ( - HD)
+https://rr.buytommy.top/secure/SrxILnTIYo/echo/stream/ppv-event-12-american-sprint-car-series-creek-county-ppv-12/1/playlist.m3u8
 
 #EXTGRP:TheTVApp
 #EXTINF:-1  tvg-name="A&E HD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="TheTVApp",A&E (HD)
@@ -11328,11 +11348,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/88fc78da2149e0a94ff095
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/9fa74c310c7d19017b5b0e2cd9d91b26.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/01/16/6-12-25-ASCS-1737048743595.png?impolicy=resize&w=1920&h=1080" ,Creek County Speedway (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/3431dc8e49232191c10c88ee92aa775c.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cw.png" ,CW
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11483,11 +11498,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/pajip6maru1rlcoz1qizeb
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/92ff2c60b22c6f909fee98e91d64c112.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/6452894a878bc.png" ,MARS Late Models at Farmer City Raceway (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/5c41b0d1fa44dd5aef7ab877e24bd9ad.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" ,MeTV
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11508,11 +11518,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/dd2b541cd3c0f5e547f9a7
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/5d4af6aa99e9ee7912136ea5be3f962a.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/67c0e4cd1a49c.png" ,NARC Howard Kaeding Classic at Ocean Speedway (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/d91e832249a8c375da2ab64b677b14a6.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nba.png" ,NBA TV
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11748,11 +11753,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/e58f21ced67b9c60a2efb7
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/51e085aaa7ebf58356e360dec7553390.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2024/11/19/7-18-25-XOM-1732048834620.png?impolicy=resize&w=1920&h=1080" ,Spoon River Speedway (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/0d438c6d8b7671d45df496ce01557a4b.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tbs.png" ,TBS
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11813,11 +11813,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/8esiM7BRatIQ3cAdaxes34
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/8e79a48ec3b70050d128e442606d9883.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://m.media-amazon.com/images/I/81gOMT2Zb0L.jpg" ,TOMORROW LAND BELGIUM 2025: DAY ONE (Main Stage)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/e45a4110ebd56afc691efb6ade416185.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/trutv.png" ,TruTV
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11858,11 +11853,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/397e9c05f4ec89df258ad5
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/cA2AcLspucEmI750LcLguxAFR9jU7Rln.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/640f420e31fc9.png" ,Tyler Wolf Memorial at Silver Dollar Speedway (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/a7145f9be48cdf58c38b0dcce484f57f.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://prod.cosm-cdn.io/venue-events/Sports/MMA/UFC/ufc_318/Product_Assets/Event_Image/UFC_318_keyart_16x9_v1.webp" ,UFC 318: Max Holloway vs. Dustin Poirier (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
