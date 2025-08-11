@@ -1,8 +1,50 @@
-# Updated at 2025-08-11T09:29:14.754916Z
+# Updated at 2025-08-11T12:50:09.799809Z
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Detroit Tigers vs. Chicago White Sox Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://maz2.dbcast.live/JW5wLBdasaH4IsHjqq-_0w/1754945412/35322e3137362e31392e313934/ff423/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Colorado Rockies vs. St. Louis Cardinals Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://maz2.dbcast.live/B4PU6YS30WP4ymkWgQPuDQ/1754945431/35322e3137362e31392e313934/ff411/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",San Diego Padres vs. San Francisco Giants Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://maz1.dbcast.live/Z0e-w8ESBeCybdVuVOtPMA/1754945436/35322e3137362e31392e313934/ff819/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC 319: Du Plessis vs. Chimaev Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=hndoysQDPcIUN5gHt5UOwg&e=1754927440
+
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Dutch GP Free Practice 1 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://maz1.dbcast.live/mr0KDh-CfV-RelX4PpX42w/1754933357/35322e3137332e3231392e313530/ff411/playlist.m3u8
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=rvfsaPYsA-4qp0zaRpgr0Q&e=1754927452
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Philadelphia Phillies vs. Cincinnati Reds Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edge1caster.pro/hls/bzagLHzach19.m3u8?st=2WbPEcH8MJIKUR_rBNJHIS8PS-f6rMcUKvAKwTgtexs&e=1754927464
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Pittsburgh Pirates vs. Milwaukee Brewers Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://maz1.dbcast.live/cXVqOSu91dtylUYG9snnxA/1754945470/35322e3137362e31392e313934/ff427/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Los Angeles Dodgers vs. Los Angeles Angels Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edge1caster.pro/hls/jkzahzadach20.m3u8?st=UkBmr2hLCfSMLePAcdu4z0O7F989-JW8rmdKAmSjn0c&e=1754927472
 
