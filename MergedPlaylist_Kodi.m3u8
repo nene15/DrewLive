@@ -6476,11 +6476,17 @@ https://gg.poocloud.in/epl_west-ham/index.m3u8|Origin=https%3A%2F%2Fveplay.top&R
 
 #EXTGRP:PPVLand - Live Channels 24/7
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 South Park
-https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8|Origin=https%3A%2F%2Fveplay.top&Referer=https%3A%2F%2Fveplay.top%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko%2F20100101%20Firefox%2F139.0
+https://gg.poocloud.in/southpark/index.m3u8|Origin=https%3A%2F%2Fveplay.top&Referer=https%3A%2F%2Fveplay.top%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko%2F20100101%20Firefox%2F139.0
 
 #EXTGRP:PPVLand - MLB
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/d0c7ab711c768311910b12473358db01-thumbnail.jpg" group-title="PPVLand - MLB",Arizona Diamondbacks vs. San Francisco Giants
+https://gg.poocloud.in/giants/index.m3u8|Origin=https%3A%2F%2Fveplay.top&Referer=https%3A%2F%2Fveplay.top%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko%2F20100101%20Firefox%2F139.0
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/81f65cd86dcdbbc9ba5e1fd59ca7599e-thumbnail.jpg" group-title="PPVLand - MLB",Boston Red Sox vs. Athletics
+https://gg.poocloud.in/athletics/tracks-v1a1/mono.ts.m3u8|Origin=https%3A%2F%2Fveplay.top&Referer=https%3A%2F%2Fveplay.top%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko%2F20100101%20Firefox%2F139.0
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/8574b7590643a223fa51ac581f52f3c5-thumbnail.jpg" group-title="PPVLand - MLB",Milwaukee Brewers vs. Texas Rangers
-https://gg.poocloud.in/rangers/index.m3u8|Origin=https%3A%2F%2Fveplay.top&Referer=https%3A%2F%2Fveplay.top%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko%2F20100101%20Firefox%2F139.0
+https://gg.poocloud.in/rangers/tracks-v1a1/mono.ts.m3u8|Origin=https%3A%2F%2Fveplay.top&Referer=https%3A%2F%2Fveplay.top%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko%2F20100101%20Firefox%2F139.0
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/f719889af4bf7dbbf84bc64a386e8250-thumbnail.jpg" group-title="PPVLand - MLB",Minnesota Twins vs. Los Angeles Angels
+https://gg.poocloud.in/angels/tracks-v1a1/mono.ts.m3u8|Origin=https%3A%2F%2Fveplay.top&Referer=https%3A%2F%2Fveplay.top%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko%2F20100101%20Firefox%2F139.0
 
 #EXTGRP:PPVLand - NFL & College Football Action
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/1dfac139e4eddee355b7f9e99a92c043-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Atlanta Falcons vs. Minnesota Vikings
