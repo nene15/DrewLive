@@ -2136,6 +2136,22 @@ https://jmp2.uk/stvp-CABD1200021MS
 #EXTINF:-1  tvg-name="Yo! MTV" tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="DrewLive Music Video Channels" radio="false",Yo! MTV
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 
+#EXTGRP:DrewLive Music Videos Channels
+#EXTINF:-1  tvg-name="Vevo '90s & '00s" tvg-id="GBBC2100002HP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="DrewLive Music Videos Channels" radio="false",Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+#EXTINF:-1  tvg-name="Vevo 2K" tvg-id="94759dbd58a65682bcc573932f725f46" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/94759dbd58a65682bcc573932f725f46/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113375186_Info_HUD_Logo_260X147_center_%252819%2529.png" group-title="DrewLive Music Videos Channels" radio="false",Vevo 2K
+https://jmp2.uk/rok-94759dbd58a65682bcc573932f725f46.m3u8
+#EXTINF:-1  tvg-name="Vevo Reggaeton & Trap" tvg-id="60db737695c95b599dad50d2c5595fe3" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/60db737695c95b599dad50d2c5595fe3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113591743_Info_HUD_Logo_260X147_center_%25281%2529_%25281%2529.png" group-title="DrewLive Music Videos Channels" radio="false",Vevo Reggaeton & Trap
+https://jmp2.uk/rok-60db737695c95b599dad50d2c5595fe3.m3u8
+#EXTINF:-1  tvg-name="Vevo Rock" tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG_1748797615724.png" group-title="DrewLive Music Videos Channels" radio="false",Vevo Rock
+https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
+#EXTINF:-1  tvg-name="XITE Hits" tvg-id="CABD1200038NZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200038NZ_20250812T003400SQUARE.png" group-title="DrewLive Music Videos Channels" radio="false",XITE Hits
+https://jmp2.uk/stvp-CABD1200038NZ
+#EXTINF:-1  tvg-name="XITE Just Chill" tvg-id="CABB2600004RZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600004RZ_20250812T003221SQUARE.png" group-title="DrewLive Music Videos Channels" radio="false",XITE Just Chill
+https://jmp2.uk/stvp-CABB2600004RZ
+#EXTINF:-1  tvg-name="XITE Rock x Metal" tvg-id="623a1b5188ecdc0007c9ef5a" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="DrewLive Music Videos Channels" radio="false",XITE Rock x Metal
+https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
+
 #EXTGRP:DrewLive NSFW
 #EXTINF:-1  tvg-name="Aaliyah Hadid" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive NSFW" radio="false",Aaliyah Hadid
 https://cdn.baddiehub.com/AaliyPV.mp4
