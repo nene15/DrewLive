@@ -7511,11 +7511,6 @@ https://gg.poocloud.in/ligue1_angers-sco/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/bundesliga_cologne/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3b7d40685fea78089d775b49f87cbbc4-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Elche CF vs. Celta
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/laliga_elche-c-f/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a76a46437f25200011512183c9a71b66-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Everton vs. West Ham United
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -7530,12 +7525,7 @@ https://gg.poocloud.in/laliga_fc-barcelona/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_fc-metz/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3ad0645a02b21be6c832a4705b01129b-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Freiburg vs. Hoffenheim
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_freiburg/index.m3u8
+https://gg.poocloud.in/ligue1_fc-metz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6d06e7ab7451242c289e10ac4fbed23e-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Genoa vs. Lazio
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -7550,12 +7540,12 @@ https://gg.poocloud.in/seriea_lecce/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_losc/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ligue1_losc/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/956f9864e7241c66166c6b35e253aa6d-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Newcastle United vs. Arsenal
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_newcastle/index.m3u8
+https://gg.poocloud.in/epl_newcastle/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1bba1382e33a2a34470926a95e5d2203-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Parma vs. Torino
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -7565,7 +7555,12 @@ https://gg.poocloud.in/seriea_parma/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/laliga_real-betis/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/laliga_real-betis/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/446d88dae88236cda059a7d5c7648647-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Union Berlin vs. Hamburg
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/bundesliga_union-berlin/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a20422b76a2ecf67c2f421167859268e-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Valencia CF vs. Real Oviedo
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -7610,23 +7605,23 @@ https://gg.poocloud.in/marlins/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/braves/index.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/efe54bc9c021199f50e8ead0f554fcad-thumbnail.jpg" group-title="PPVLand - MLB",Texas Rangers vs. Cleveland Guardians
+
+#EXTGRP:PPVLand - NFL Action
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6a04ece09dcd7e6f67ed1ed9cca39101-thumbnail.jpg" group-title="PPVLand - NFL Action",Baltimore Ravens vs. Kansas City Chiefs
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/guardians/index.m3u8
-
-#EXTGRP:PPVLand - NFL Action
+https://gg.poocloud.in/kansascitychiefs/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/59734a676ca6e313f8514fe1fb81d261-thumbnail.jpg" group-title="PPVLand - NFL Action",Carolina Panthers vs. New England Patriots
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/newenglandpatriots/index.m3u8
+https://gg.poocloud.in/newenglandpatriots/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/49e72355a587607bf41f54b5ced3a44b-thumbnail.jpg" group-title="PPVLand - NFL Action",Chicago Bears vs. Las Vegas Raiders
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/lasvegasraiders/index.m3u8
+https://gg.poocloud.in/lasvegasraiders/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c699fb03dc627df9cefc8b6fd5df98bb-thumbnail.jpg" group-title="PPVLand - NFL Action",Cleveland Browns vs. Detroit Lions
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -7636,27 +7631,22 @@ https://gg.poocloud.in/detroitlions/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/losangelesrams/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/losangelesrams/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ecbb4ae604c429149806d1be7a477724-thumbnail.jpg" group-title="PPVLand - NFL Action",Jacksonville Jaguars vs. San Francisco 49ers
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
+https://gg.poocloud.in/sanfrancisco49ers/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f9cd99c9b0f1201135ba03b42700dbd9-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Chargers vs. New York Giants
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/newyorkgiants/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/33184396a2951a3762b12b3a95a4c9ea-thumbnail.jpg" group-title="PPVLand - NFL Action",Minnesota Vikings vs. Pittsburgh Steelers
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f2f818000af76d5ea51105eafbef6ca2-thumbnail.jpg" group-title="PPVLand - NFL Action",New Orleans Saints vs. Buffalo Bills
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/buffalobills/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/buffalobills/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9b88a03d3fe959c1b09d52194d20eaa5-thumbnail.jpg" group-title="PPVLand - NFL Action",NFL RedZone
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -7671,12 +7661,12 @@ https://gg.poocloud.in/tampabaybuccaneers/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/houstontexans/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/houstontexans/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/63d3499fc7b8912db0e42b581b8c8edd-thumbnail.jpg" group-title="PPVLand - NFL Action",Washington Commanders vs. Atlanta Falcons
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/atlantafalcons/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/atlantafalcons/index.m3u8
 
 #EXTGRP:RokuTV
 #EXTINF:-1  tvg-name="ABC7 Sarasota" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" tvg-chno="4162" group-title="RokuTV",ABC7 Sarasota
